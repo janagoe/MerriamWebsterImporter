@@ -4,7 +4,7 @@ It does not use the Merriam-Webster API for reasons of simplification. It loads 
 
 ## Example
 
-![Path](https://github.com/janagoe/MerriamWebsterImporter/blob/master/screenshots/path.png)
+![Path](https://github.com/janagoe/MerriamWebsterImporter/blob/master/screenshots/go_to.png)
 
 Input:
 
