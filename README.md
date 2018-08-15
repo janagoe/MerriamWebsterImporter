@@ -4,7 +4,15 @@ It does not use the Merriam-Webster API for reasons of simplification. It loads 
 
 ## Example
 
+![Path](https://github.com/janagoe/MerriamWebsterImporter/blob/master/screenshots/path.png)
 
+Input:
+
+![Input](https://github.com/janagoe/MerriamWebsterImporter/blob/master/screenshots/input_dialog.png)
+
+Output:
+
+![Output](https://github.com/janagoe/MerriamWebsterImporter/blob/master/screenshots/example.png)
 
 ## Installation Requirements
 Anki 2.0.*
